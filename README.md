@@ -1,5 +1,5 @@
 <div align="center">
-  Oi 👋
+  Oi 👋<br>
   Meu nome é Cristina👩‍🚀<br>
   Sou estudante de Técnico em Informática no Senac🏫<br>
   Gosto muito de programa!👩‍💻 Commits são minha paixão!💘<br>
@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/CristinAlvestegui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristinAlvestegui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinAlvestegui&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristinAlvestegui&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinAlvestegui&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
 <!--
