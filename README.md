@@ -1,7 +1,6 @@
 <div align="center">
   Oi 👋<br>
   Meu nome é Cristina👩‍🚀<br>
-  Sou estudante de Técnico em Informática no Senac🏫<br>
   Gosto muito de programa!👩‍💻 Commits são minha paixão!💘<br>
   Ainda não sei muitas coisas, mas não posso esperar e saber td!🌎<br><br>
 </div>
