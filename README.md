@@ -6,7 +6,7 @@
   📚 Estou sempre em busca de novos conhecimentos e tecnologias<br>
   🐾 Divido o espaço com dois felinos cheios de personalidade, Princesa e Locoto, que tornam o dia a dia mais interessante.<br>
   
-</div>
+</div><br><br>
 
 <div align="center">
   <a href="https://github.com/CristinAlvestegui">
