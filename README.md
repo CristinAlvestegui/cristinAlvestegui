@@ -1,8 +1,11 @@
 <div align="center">
-  Oi 👋<br>
-  Meu nome é Cristina👩‍🚀<br>
-  Gosto muito de programa!👩‍💻 Commits são minha paixão!💘<br>
-  Ainda não sei muitas coisas, mas não posso esperar e saber td!🌎<br><br>
+  💻 Desenvolvedora Full-Stack em Formação
+  🎓 Estudante na Faculdade de São Judas
+  🌱 Busco oportinudades para aplicar meu conhecimentos em JavaScript, PHP, Python e SQL
+  🧠 Interessada em IA, IoT, Segurança Cibernética e Machine Learning
+  📚 Estou sempre em busca de novos conhecimentos e tecnologias
+  🐾 Divido o espaço com dois felinos cheios de personalidade, Princesa e Locoto, que tornam o dia a dia mais interessante.
+  
 </div>
 
 <div align="center">
@@ -25,8 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  <div align="center">
-    <h2>Olhas quantas Visitas! </h2>
-    <img src="https://profile-counter.glitch.me/cristinAlvestegui/count.svg" />
-  </div>
