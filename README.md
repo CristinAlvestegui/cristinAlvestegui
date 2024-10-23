@@ -1,10 +1,10 @@
 <div align="center">
-  💻 Desenvolvedora Full-Stack em Formação
-  🎓 Estudante na Faculdade de São Judas
-  🌱 Busco oportinudades para aplicar meu conhecimentos em JavaScript, PHP, Python e SQL
-  🧠 Interessada em IA, IoT, Segurança Cibernética e Machine Learning
-  📚 Estou sempre em busca de novos conhecimentos e tecnologias
-  🐾 Divido o espaço com dois felinos cheios de personalidade, Princesa e Locoto, que tornam o dia a dia mais interessante.
+  💻 Desenvolvedora Full-Stack em Formação<br>
+  🎓 Estudante na Faculdade de São Judas<br>
+  🌱 Busco oportinudades para aplicar meu conhecimentos em JavaScript, PHP, Python e SQL<br>
+  🧠 Interessada em IA, IoT, Segurança Cibernética e Machine Learning<br>
+  📚 Estou sempre em busca de novos conhecimentos e tecnologias<br>
+  🐾 Divido o espaço com dois felinos cheios de personalidade, Princesa e Locoto, que tornam o dia a dia mais interessante.<br>
   
 </div>
 
